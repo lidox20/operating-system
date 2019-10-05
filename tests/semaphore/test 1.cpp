@@ -1,6 +1,4 @@
 
-/*
-
 Semaphore* s = new Semaphore(0);
 int global = 0;
 
@@ -35,10 +33,3 @@ public:
 private:
 	unsigned int threadID;
 };
-
-
-
-
-
-
- */
